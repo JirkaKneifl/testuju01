@@ -1,0 +1,5 @@
+oranžová - orange - HEX[#ff7200], rgba(255, 114, 0, 1)
+
+fialová - purple - HEX[#72008e], rgba(114, 0, 142, 1)
+
+bílá - white - HEX[#FFFFFF], rgb(255,255,255)

@@ -1,3 +1,3 @@
 # testuju01
- ZAcinam od znova
+ Zacinam od znova -> jedu podle w3schools kurzu na Node.js 
  
